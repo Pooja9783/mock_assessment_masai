@@ -1,0 +1,27 @@
+.Product{
+   
+   
+  
+}
+.Product .prd-div{
+display: grid;
+ grid-template-columns: auto auto auto auto;
+ border-radius:5px ;
+
+}
+
+.product-detail{
+  border:1px solid black;
+  margin: 10px 20px;
+}
+
+.product-details-div{
+    background-color: gray;
+    cursor: pointer;
+    padding: 20px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
